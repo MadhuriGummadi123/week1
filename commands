@@ -1,0 +1,10 @@
+<h1>
+git init
+git config --global user.name ""
+user.email
+git add index.html
+git commit -m ""
+git remote add origin""
+git remote -v
+git push origin master
+</h1>
